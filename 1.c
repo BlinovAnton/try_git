@@ -5,7 +5,7 @@ int main () {
 	int b = 0;
 	a = func(5);
 	if (b != 0) {
-		printf("volatile\n");
+		printf("voolatile\n");
 	}
 	printf("a = %d\n", a);
 	return 0;
